@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 another conflict content
-=======
 some content here
->>>>>>> 99c211a5a578c703b73ef124c6fd14f503380f2d
