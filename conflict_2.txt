@@ -1,0 +1,2 @@
+Create conflict_2.txt
+On branch main
